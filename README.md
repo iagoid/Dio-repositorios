@@ -3,7 +3,6 @@
 Este repositório contém o projeto do meu **App de Finanças Pessoais**, incluindo interações com uma Inteligência Artificial para auxiliar no desenvolvimento e reflexão sobre o processo.
 
 # Plano de MVP
-
 ```
 A proposta é criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas naturais com o usuário. O objetivo é simplificar o controle financeiro, evitando formulários complexos ou planilhas, e tornando a experiência prática e motivadora.
 
